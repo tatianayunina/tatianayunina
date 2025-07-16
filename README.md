@@ -1,4 +1,4 @@
-## ˚ ༘ ೀ⋆｡ Добро пожаловать!˚ ༘ ೀ⋆｡ ˚
+## ▒▒▒▒ Добро пожаловать!
 
 Я специалист по работе с данными с образованием в области физики и микроэлектроники. Основное внимание в своей работе и в учебных проектах уделяю подготовке и очистке данных, построению статистических и предиктивных моделей. Работаю с временными рядами, регрессионными и классификационными задачами. Умею визуализировать и объяснять результаты.
 
@@ -22,8 +22,8 @@
 
 ## Курсы
 
-- *IBM Data Science Professional Certificate* (Coursera, 2023)  
-- *Digital Transformation in the Biomedicine Sector* (Basque Health Cluster, 2024)
+░ *IBM Data Science Professional Certificate* (Coursera, 2023)     
+░ *Digital Transformation in the Biomedicine Sector* (Basque Health Cluster, 2024)
 
 ---
 
