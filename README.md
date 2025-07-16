@@ -12,8 +12,8 @@
 
 ---
 
-**Стек:**  
+_**Стек:**  
 Python · Pandas/Polars · scikit-learn · CatBoost/XGBoost/LightGBM · ARIMA/Prophet · TensorFlow · PyTorch (в процессе)  
 Plotly · Seaborn · Stat Tests (ANOVA, t-test) · Feature Engineering  
 LLM (Azure OpenAI, LangChain, FAISS) · Flask  
-VS Code · Jupyter · Docker · Git (базово)
+VS Code · Jupyter · Docker · Git (базово)_
