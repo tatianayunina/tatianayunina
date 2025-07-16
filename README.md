@@ -8,11 +8,11 @@
 
 На [Kaggle](https://www.kaggle.com/litsea) (уровень Expert) создаю end-to-end решения: от продуманной обработки данных и feature engineering до построения модели, её интерпретации и метрик.
 
-&#x2794; Привержена чистому, читаемому коду и обоснованному выбору методов, метрик и архитектур.
+♞ Привержена чистому, читаемому коду и обоснованному выбору методов, метрик и архитектур.
 
 ---
 
-> ## ✔ Стек:  
+> ## ☞ Стек:  
 > Python · Pandas/Polars · scikit-learn · CatBoost/XGBoost/LightGBM · ARIMA/Prophet · TensorFlow · PyTorch (в процессе)  
 > Plotly · Seaborn · Stat Tests (ANOVA, t-test) · Feature Engineering  
 > LLM (Azure OpenAI, LangChain, FAISS) · Flask  
@@ -20,7 +20,7 @@
 
 ---
 
-## ✎ Курсы
+## Курсы
 
 - *IBM Data Science Professional Certificate* (Coursera, 2023)  
 - *Digital Transformation in the Biomedicine Sector* (Basque Health Cluster, 2024)
